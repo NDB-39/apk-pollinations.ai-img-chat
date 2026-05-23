@@ -1,0 +1,6 @@
+{
+  "name": "Nova Synth",
+  "description": "AI Text and Image generation using Pollinations Proxy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
